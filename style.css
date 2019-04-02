@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid White;
+}
+
+th,td {
+  /* border: 1px solid black; */
+}
+
+table {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  table-layout: fixed;
+ }
+
+.blackback{
+  background-color: black; width: 233px;
+
+}
+
+.whiteback{
+  background-color: White;
+}
+
+.space {
+  height: 178px;
+  width: 288px;
+}
